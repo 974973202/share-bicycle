@@ -1,2 +1,2 @@
 # share-bicycle
-react16 + antd + react-router4 + redux 
+react16 + antd + react-router4 + redux + es6
